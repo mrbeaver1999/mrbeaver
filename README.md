@@ -1,5 +1,5 @@
 # mrbeaver
 ## hello guys!Welcome to my home!
 - zone
-- more imformation
+- more information
 
